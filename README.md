@@ -11,3 +11,5 @@ This repository has the assignment description and my solution for the module _N
 </br><br/>
 ![img](bckTime.jpg)
 
+&nbsp;
+![img](bckAlgorithm.PNG)
